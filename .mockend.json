@@ -1,8 +1,26 @@
 
 {
   "User": {
-    "title": {
-      "string": {}
-    }
+    "Title": {
+            "string": {}
+        },
+        "Description": {
+            "string": {}
+        },
+        "Comments": {
+            "string": {}
+        },
+        "CreatedAt": {
+            "string": {}
+        },
+        "Status": {
+            "string": {}
+        },
+        "Assignee": {
+            "string": {}
+        },
+        "Reporter": {
+            "string": {}
+        }
   }
 }
