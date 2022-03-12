@@ -1,7 +1,27 @@
 {
-  "User": {
-    "title": {
+  "Boards": {
+    "Title": {
       "string": {}
-    }
+    },
+    "Description": {
+      "string": {}
+    },
+    "Comments": [
+      "Comment": {
+        "string": {}
+      }
+    ],
+  "Date Created": {
+    "string": {}
+  },
+  "Status": {
+    "string": {}
+  },
+  "Assignee": {
+    "string": {}
+  },
+  "Reporter": {
+    "string": {}
   }
+}
 }
