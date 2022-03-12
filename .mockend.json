@@ -9,17 +9,17 @@
     "Comments": {
         "string": {}
       },
-  "Date Created": {
-    "string": {}
-  },
-  "Status": {
-    "string": {}
-  },
-  "Assignee": {
-    "string": {}
-  },
-  "Reporter": {
-    "string": {}
+    "CreatedAt": {
+      "string": {}
+    },
+    "Status": {
+      "string": {}
+    },
+    "Assignee": {
+      "string": {}
+    },
+    "Reporter": {
+      "string": {}
+    }
   }
-}
 }
