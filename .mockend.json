@@ -6,11 +6,9 @@
     "Description": {
       "string": {}
     },
-    "Comments": [
-      "Comment": {
+    "Comments": {
         "string": {}
-      }
-    ],
+      },
   "Date Created": {
     "string": {}
   },
