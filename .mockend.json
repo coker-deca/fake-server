@@ -7,13 +7,12 @@
         "Description": {
             "string": {}
         },
-        "Comments": [
+        "Comments":
             {
                 "Comment": {
                     "string": {}
                 }
-            }
-        ],
+            },
         "CreatedAt": {
             "string": {}
         },
